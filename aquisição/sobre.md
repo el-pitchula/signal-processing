@@ -1,0 +1,1 @@
+- como receber os sinais
