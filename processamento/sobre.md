@@ -1,1 +1,1 @@
-- como procesasaer os sinais
+- como processar os sinais
